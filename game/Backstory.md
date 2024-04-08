@@ -1,97 +1,94 @@
-# The Mysterious Fate of the Quantics
+# Таинственная судьба Квантов
 
-Thousands of years ago, a people known as the Quantics dominated the known universe.
+Тысячи лет назад народ, известный как Кванты, владел известной вселенной.
 
-At the heart of Quantic culture was a deep reverence for science and technology. At the age when most kids learned to tie their shoes, Quantic children studied algebra, astronomy and physics; by the time middle school rolled around, most Quantic children steeped themselves in the principles of computing, the laws of thermodynamics, and a whole host of other complex sciences.
+В центре культуры Квантов было глубокое почитание науки и технологии. В возраст, когда большинство детей учатся завязывать шнурки, дети Квантов изучали алгебру, астрономию и физику; к моменту окончания начальной школы большинство детей Квантов углублялись в принципы вычислительной техники, законы термодинамики и целый ряд других сложных наук.
 
-The Quantics were pacifists by nature. They viewed academic debate as the highest, most enlightened form of conflict. They were not conquerers and never actively sought power, though their military technologies (all designed for defensive purposes) far outclassed those of any other race.
+Кванты были мирными по природе. Они считали академические дебаты самой высокой, наиболее просвещенной формой конфликта. Они не были завоевателями и никогда не стремились к власти, хотя их военные технологии (все разработанные для оборонительных целей) значительно превосходили технологии любой другой расы.
 
-However, the sheer velocity of their technological advancement, combined with an increasing scarcity of resources on their home planet, propelled them rapidly outwards into neighboring worlds. Within a generation, they had terraformed and colonized dozens of planets. Within another generation, they had created the most advanced galactic alliance in recorded history, spanning tens of thousands of worlds.
+Однако огромная скорость их технологического развития, в сочетании с увеличивающимся дефицитом ресурсов на их родной планете, быстро вытолкнула их вперед в соседние миры. В течение одного поколения они терраформировали и колонизировали десятки планет. Еще через поколение они создали самый передовой галактический альянс в записанной истории, охватывающий десятки тысяч миров.
 
-But just as quickly as they came, the Quantics began to disappear. It started with individuals – a scientist here, an engineer there. But soon, whole planets began to go dark. Thousands of Quantics would vanish at once without a trace, as if swallowed up by some parallel dimension that had been lying dormant in the earth beneath them.
+Но так же быстро, как они пришли, Кванты начали исчезать. Это началось с отдельных личностей - ученого тут, инженера там. Но вскоре целые планеты начали погружаться во тьму. Тысячи Квантов исчезали сразу, без следа, словно поглощенные каким-то параллельным измерением, которое лежало в спячке под землей под ними.
 
-As more and more Quantics disappeared, rumors began to swirl about a rogue technology, a highly-advanced machine that had started behaving in ways that even the best scientists couldn't control.
+По мере того как все больше и больше Квантов исчезали, начали распространяться слухи о бунтарской технологии, о высоко развитой машине, которая начала вести себя таким образом, что даже лучшие ученые не могли контролировать ее.
 
-As intelligent as they were, the Quantics were, like most races, vulnerable to their own knowledge and ambition. They were smart enough to design technologies that most would consider pure magic, but also smart enough to convince themselves that the technologies they developed would never outpace their own prodigious intelligence.
+Интеллектуальные, какими были Кванты, они, как и большинство рас, были уязвимы для своего собственного знания и амбиций. Они были достаточно умными, чтобы разрабатывать технологии, которые многие считали бы чистой магией, но и достаточно умными, чтобы убедить себя в том, что разработанные ими технологии никогда не превзойдут их собственного великого интеллекта.
 
-Or maybe they were completely aware of the risks and simply chose to ignore them. Why think about potential dangers when you can instead focus on all the wealth and prosperity your advancements are delivering? As wise Quantic author Qual Bellow once said, "A great deal of intelligence can be invested in ignorance when the need for illusion is deep." Quantic scientists tended to pursue technology for technology's sake, and it hadn't failed them yet.
+Или, быть может, они были полностью осведомлены о рисках и просто выбрали игнорировать их. Зачем думать о потенциальных опасностях, когда можно сосредоточиться на всем богатстве и процветании, которые приносят ваши достижения? Как мудрый квантовый писатель Куал Белло однажды сказал: "Большое количество интеллекта может быть вложено в невежество, когда потребность в иллюзии глубока." Квантовые ученые часто стремились к технологиям ради технологий, и это им еще не подводило.
 
-Whatever the case, the legends all seem to agree that the disappearance of the Quantics was tied directly to the development of an extremely advanced computer, one that leveraged the mysterious properties of quantum physics, properties that even the smartest Quantics had trouble wrapping their heads around.
+Как бы то ни было, легенды все сходятся во мнении, что исчезновение Квантов было прямо связано с разработкой чрезвычайно продвинутого компьютера, который использовал таинственные свойства квантовой физики, свойства, которые даже самые умные Кванты испытывали трудности осмысливать.
 
-If you believed the stories (few people did these days), this quantum computer allowed objects to exist in two different potential states at once – a real-life version of Schrödinger’s box, as crazy as that sounds.
+Если верить историям (в которые в наши дни мало кто верит), этот квантовый компьютер позволял объектам существовать в двух разных потенциальных состояниях одновременно - живой версии ящика Шрёдингера, насколько это звучит нелепо.
 
-Conspiracy theorists tended to point to this machine as the root cause of the disappearances, the idea being that Quantic scientists had somehow started putting their own people into this "neither here nor there but also both here and there" state (superposition, they called it), without actually knowing how to bring them back.
+Конспирологи обычно указывают на эту машину как на коренную причину исчезновений, считая, что квантовые ученые каким-то образом начали помещать своих собственных людей в это "ни здесь, ни там, но и здесь и там" состояние (они называли это суперпозицией), не имея на самом деле понятия, как вернуть их обратно.
 
-Some people believe that the whole Quantic population is stuck in a purgatory of superposition somewhere, waiting in vain to be collapsed back into reality. Others believe that they only existed in superposition for a fraction of a second, but were shunted over to a parallel universe when they returned to the physical world. Still others believe that they were simply vaporized by the subatomic forces that powered the quantum computer.
+Некоторые люди верят, что вся квантовая популяция застряла в чистилище суперпозиции где-то, безнадежно ждущая, чтобы вернуться в реальность. Другие считают, что они существовали в суперпозиции всего лишь доли секунды, но были перенесены в параллельную вселенную, когда вернулись в физический мир. Остальные считают, что их просто испарили субатомные силы, питавшие квантовый компьютер.
 
-But the ultimate fate of the machine itself – assuming, of course, that it was once real – is just as nebulous as the fate of its creators.
+Но окончательная судьба самой машины - если, конечно, она когда-то существовала - также неясна, как и судьба ее создателей.
 
-It was never actually seen by anyone outside of the Quantic race, and, of course, there are no Quantics around today to tell the tale. Most people who believe in the machine believe that it was either destroyed by the last of the Quantics or gutted by galactic salvagers who sold the meticulously-tuned instruments as scrap metal.
+Ее никогда не видел никто, кроме Квантов, и, конечно, сейчас нет Квантов, чтобы рассказать эту историю. Большинство людей, которые верят в эту машину, считают, что она либо была уничтожена последними Квантами, либо разграблена галактическими добытчиками, которые продали тщательно настроенные инструменты в виде металлолома.
 
-But there’s one other, less prevalent theory out there: that a small group of fanatical Quantics dismantled the machine and scattered it across the cosmos in hopes that it would one day be reassembled by someone wise enough to use it responsibly.
+Но есть еще одна, менее распространенная теория: что небольшая группа фанатичных Квантов разобрала машину и разбросала ее по всей галактике в надежде, что кто-то мудрый сможет ее когда-нибудь собрать и использовать ответственно.
 
-Of course, it could all be a load of quantum nonsense, just a bunch of stories that people tell each other while traveling on long haul missions. But then again, it could also be very, very real. There’s only one way to find out…
+Конечно, это все может быть чепухой квантового мира, просто набор историй, которыми люди делятся во время долгих космических полетов. Но, с другой стороны, это также может быть очень, очень реальным. Есть только один способ узнать…
 
-## The Promotion
+## Повышение
 
-"Today is a truly historic day, one that will be remembered for generations to come."
+"Сегодня поистине исторический день, который будет помниться на протяжении многих поколений вперед."
 
-Despite being the captain of a simple cargo fleet, John Bell had always had a serious flair for the dramatic.
+Несмотря на то, что он был капитаном простого грузового флота, у Джона Белла всегда был серьезный вкус к драматургии.
 
-"After decades at the helm, the valiant John S. Bell the Third, condor of the cosmos and falcon of the Fifth Quasar, hangs up his captain’s gloves for good." He speaks of himself in the third person, as if reading a passage from some future text on the history of cargo ship captains (what a riveting book that would be).
+"После десятилетий у руля, отважный Джон С. Белл Третий, кондор космоса и сокол Пятой Квазары, навсегда откладывает свои капитанские перчатки." Он говорит о себе от третьего лица, будто читает отрывок из будущего текста о истории капитанов грузовых кораблей (какая захватывающая книга это была бы).
 
-"The galaxies have seen many a great captain, but few have flown…" As Bell launches into a lengthy monologue on the meaning of the word "legacy," your mind wanders to a chance encounter you had a few weeks back.
+"Галактики видели многих великих капитанов, но немногие из них летали…" Пока Белл начинает длинное монологическое вступление о значении слова "наследие", ваш разум уходит в прошлое несколько недель назад.
 
-While waiting for repairs on Xenophon 12, you’d run into a hitchhiker who claimed to have spoken with a real-life Quantic during a visit to Centarious ZERO. You’d initially written him off as a quack, but the more he spoke, the more intrigued you’d become. He seemed to possess intimate knowledge about the Quantic people and culture, and even spoke at length about the so-called quantum computer that was said to have sealed their fate. Could it really all be true?
+Ожидая ремонта на Ксенофоне 12, вы столкнулись с попутчиком, который утверждал, что разговаривал с настоящим Квантом во время визита на Центариус ZERO. Сначала вы отнесли его квакшей, но чем больше он говорил, тем больше вас заинтересовало. Он казался обладающим сокровенными знаниями о квантовых людях и культуре, и даже долго говорил о так называемом квантовом компьютере, который, как говорили, определил их судьбу. Может ли все это быть правдой?
 
-You snap back to the present – Bell has finally gotten to the part you’ve been waiting for: "But today is not about endings, it’s about beginnings. You’ve been my loyal understudy for nearly ten years now, and it’s time for you to take the reins."
+Вы возвращаетесь к настоящему моменту - Белл наконец добрался до той части, которую вы долго ждали: "Но сегодня не о завершениях, это о началах. Вы были моим верным учеником почти десять лет, и пришло время вам взять вожжи."
 
-Despite the comic nature of the ceremony, you can’t help but feel a wave of pride at being named captain.
+Несмотря на комичное свойство церемонии, вы не можете не почувствовать волну гордости от того, что вас назвали капитаном.
 
-"But before I make it official, I have one final word of advice: stick to what you know. You’re one of the smartest, most skilled navigators I’ve ever met, but you’re also one of the most inquisitive. That might be a good trait for a young cargo hand, but being a captain requires focus and discipline. Always remember," Bell says with a twinkle in his eye, "curiosity didn’t just kill the cat, it killed the Quantics as well."
+"Но перед тем, как сделать это официальным, у меня есть последнее совет: держитесь того, что вы знаете. Вы один из самых умных, опытных навигаторов, которых я когда-либо встречал, но вы также один из самых любознательных. Это может быть хорошим качеством для молодого грузовика, но быть капитаном требует фокуса и дисциплины. Помните всегда," говорит Белл с блеском в глазах, "любопытство не только убивало кошку, но и уничтожало Квантов."
 
-You try to hide your surprise at the comment, electing to laugh it off in what you hope is casual nonchalance. "Don’t worry captain, I gave up on those old fairy tales long ago."
+Вы пытаетесь скрыть свое удивление от комментария, предпочитая сыграть настойчивую невозмутимость. "Не волнуйтесь, капитан, я давно отказался от этих старых сказок."
 
-In your head, however, you’re already plotting a course to Centarious ZERO…
+Однако в вашей голове вы уже планируете курс на Центариус ZERO…
 
-## Quazi's Mission
+## Миссия Квази
 
-"What was I thinking coming here…"
+"Что я думал, приходя сюда…"
 
-After three lunar lagers (and twice as many fruitless conversations), it’s hard not to feel like you wasted your time traveling to Centarious.
+После трех лунных лагерей (и вдвое больше бессмысленных бесед) трудно не чувствовать, что вы потратили время зря, отправляясь в Центариус.
 
-Of the six people you talked to, three had never heard of a quantum computer, two laughed in your face ("You really believe all that conspiracy nonsense?!"), and the last guy kept trying to rope you into a nutritional supplement pyramid scheme.
+Из шести людей, с которыми вы разговаривали, трое никогда не слышали о квантовом компьютере, двое рассмеялись вам в лицо ("Ты действительно веришь во всю эту конспирологическую чепуху?!"), а последний парень постоянно пытался втянуть вас в пирамидальную схему питания.
 
-With a long sigh of defeat, you drain your draught and get up to leave the bar. But just as you’re about to walk off, a firm hand plants itself on your shoulder. You turn to see the bartender staring at you with an intense, searching gaze on his face.
+С длинным вздохом поражения вы опустошаете свой кружок и встаете, чтобы покинуть бар. Но как только вы собираетесь уйти, крепкая рука опускается на ваше плечо. Вы поворачиваетесь и видите, что бармен смотрит на вас с напряженным, исследовательским взглядом.
 
-"Look son, if you have an ounce of sense in your body, you’ll forget you ever heard about the quantum computer. But if you’re really determined to do something foolish, you should go speak with Quazi over there." You follow the line of his calloused finger; your eyes settle upon a cloaked man huddled in a dark corner of the bar. "He has the answers you seek."
+"Послушайте, молодой человек, если в вас есть крупица здравого смысла, вы забудете, что когда-либо слышали о квантовом компьютере. Но если вы действительно настроены совершить что-то глупое, вам следует поговорить с Квази там, в углу." Вы следуете за его потрескавшимся пальцем; ваши глаза останавливаются на покрытом плащом человеке, прижавшемся к темному углу бара. "У него есть ответы, которые вы ищете."
 
-You walk cautiously across the room, planning out how you’re going to broach the topic. But just as you prepare to say, "excuse me," the man begins to speak.
+Вы осторожно пересекаете комнату, планируя, как вы собираетесь начать разговор. Но как только вы готовы сказать "извините", человек начинает говорить.
 
-"I heard you are a skilled navigator, please, come sit."
+"Я слышал, что вы опытный навигатор, пожалуйста, сядьте."
 
-You stare back, a dumb look on your face. After a second or two of awkward silence, you blurt out, "Is the quantum computer real? Were the Quantics even real? How did they disappear?" So much for all that speech planning.
+Вы смотрите на него, смущенный вид на лице. Через секунду или две неловкого молчания вы выплескиваете: "Реален ли квантовый компьютер? Реальны ли Кванты вообще? Как они исчезли?" Ну что за планирование речи.
 
-The man sighs wearily. "Yes, the Quantics were real, the quantum computer was real, and, as you probably already suspect, they disappeared because of the computer."
+Человек устало вздыхает. "Да, Кванты были реальны, квантовый компьютер был реален, и, как вы, вероятно, уже подозреваете, они исчезли из-за компьютера."
 
-"What you don't know is that not all of Quantics disappeared." After glancing around to make sure no one is looking, he pulls back his sleeve, revealing a small glowing "Q" on his upper forearm.
+"То, что вы не знаете, это то, что не все Кванты исчезли." Посмотрев вокруг, чтобы убедиться, что на вас никто не смотрит, он отодвигает рукав, обнаруживая небольшую светящуюся букву "К" на верхней части руки.
 
-You open your mouth to say something, but Quazi immediately cuts you off. "Yes, I’m a Quantic, but no more questions for now. Just listen." You close your mouth immediately.
+Вы хотите что-то сказать, но Квази сразу же вас прерывает. "Да, я Квант, но сейчас не время для вопросов. Просто слушайте." Вы немедленно закрываете рот.
 
-You had grown up believing the Quantic race had died out thousands of years ago. Not in your wildest dreams did you imagine you would meet a real life Quantic!
+Вы выросли, веря, что раса Квантов вымерла тысячи лет назад. В самых диких ваших мечтах вы не представляли, что когда-нибудь встретитесь с настоящим Квантом!
 
-"My ancestors were scientists, and long ago they built a quantum computer," Quazi begins.
+"Мои предки были учеными, и давным-давно они построили квантовый компьютер," начинает Квази.
 
-"The computer was supposed to revolutionize Quantic society, enabling us to penetrate farther and farther into the deep recesses of the universe. And it very well may have – if it didn’t start swallowing people up first. One of my ancestors, a brilliant quantum engineer named Qemo, was convinced he could fix the problem. And he very well may have, given enough time."
+"Компьютер должен был революционизировать квантовое общество, позволяя нам проникать все глубже и глубже в глубины вселенной. И он мог бы это сделать - если бы он не начал поглощать людей сначала. Один из моих предков, блестящий квантовый инженер по имени Кемо, был уверен, что сможет исправить проблему. И он мог бы, при достаточном количестве времени."
 
-“But a rogue group of anti-technology Quantics emerged once people started disappearing. They called themselves 'NQ' and were determined to destroy any quantum-related technology they could get their hands on. They felt the power was too great to be wielded responsibly, even by a well-intended Quantic government. 'The Quantic mind is holy,' was both their mantra and their battlecry as they laid waste to countless research stations and outposts in an attempt to purge the Quantic empire of all things quantum." Your eyes remain fixed upon Quazi's face as he recounts the story.
+"Но появилась группа анти-технологических Квантов, когда начали исчезать люди. Они называли себя 'NQ' и были решительно настроены уничтожить все, что связано с квантовой технологией. Они атаковали нас, пока мы были слабы, и хотя нам удалось отразить большую часть их атак, мы были разбросаны по всей галактике."
 
-"Despite their efforts, the NQ's carnage was limited to peripheral quantum research: an engine here, a defense system there. They had no leads on the quantum computer responsible for disappearing their friends and families. That is, until Qemo's wife disappeared. This engineer, who had devoted his entire life to the development of a quantum computer, and who had spoken out countless times against the NQ, lost his beloved wife in a tragic quantum event." You feel a shiver run down your spine as you begin to piece together the rest of the story.
+"Теперь, с небольшой группой выживших, мы пытаемся уничтожить все, что осталось от компьютера. Вот почему я здесь, и почему я искал вас. Мы знаем, что вы войдете в квазар, и нам нужен ваш корабль."
 
-"After Qemo joined NQ, it was all over. He helped them gain access to the lab where the quantum computer was kept, and he helped them steal it. They thought they were saving the Quantics, and to an extent, they were. But something happened when the machine was moved; it was sensitive in a way no one had realized, and it triggered a massive quantum event. All of the remaining Quantics in the universe disappeared, except for those in the room. Of course, they didn't realize it at the time, but eventually they figured it out."
+Вы весьма подвержены волнению. Ваше первое приключение как капитан, и уже вы втянуты в такую невероятную историю! Какие у вас есть варианты?
 
-"Horrified by what had happened, they made the difficult decision to dismantle the computer and spread its pieces far and wide across the Entanglion galaxy. Better to accept their losses and try to keep their race alive than further tamper with such an unstable technology. They had hoped that over time, hundreds of generations perhaps, their descendants would figure out how to recover their lost populations and restore the Quantic race to its former glory. Qemo installed special defense mechanisms that could be evaded only when a mastery of quantum mechanics had been obtained."
-
-"That’s where you come in. I’m one of a small group of Quantic descendants remaining in the universe today. We recently made a scientific breakthrough that we believe could bring our people back, but only if we're able to reassemble the computer. Unfortunately, we don’t have the ships or resources to do that."
-
-He pauses for a second, then looks you dead in the eyes: "But you do."
+[Присоединиться к Квази в его миссии уничтожения остатков квантового компьютера?]
+[Отклонить его предложение и остаться верным своему курсу?]
