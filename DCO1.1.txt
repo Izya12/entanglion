@@ -1,25 +1,23 @@
 Developer's Certificate of Origin 1.1
 
-       By making a contribution to this project, I certify that:
+Внесением вклада в этот проект я удостоверяю, что:
 
-       (a) The contribution was created in whole or in part by me and I
-           have the right to submit it under the open source license
-           indicated in the file; or
+(a) Вклад был создан мной полностью или частично, и у меня есть право
+    представить его в соответствии с открытой лицензией,
+    указанной в файле; или
 
-       (b) The contribution is based upon previous work that, to the best
-           of my knowledge, is covered under an appropriate open source
-           license and I have the right under that license to submit that
-           work with modifications, whether created in whole or in part
-           by me, under the same open source license (unless I am
-           permitted to submit under a different license), as indicated
-           in the file; or
+(b) Вклад основан на предыдущей работе, которая, насколько мне известно,
+    покрывается подходящей открытой лицензией, и я имею право в соответствии с этой
+    лицензией представить эту работу с изменениями, созданными мной полностью или частично,
+    под той же открытой лицензией (если мне разрешено представить под другой лицензией),
+    как указано в файле; или
 
-       (c) The contribution was provided directly to me by some other
-           person who certified (a), (b) or (c) and I have not modified
-           it.
+(c) Вклад был предоставлен непосредственно мне другим лицом, которое подтвердило (a), (b) или (c),
+    и я не модифицировал его.
 
-       (d) I understand and agree that this project and the contribution
-           are public and that a record of the contribution (including all
-           personal information I submit with it, including my sign-off) is
-           maintained indefinitely and may be redistributed consistent with
-           this project or the open source license(s) involved.
+(d) Я понимаю и соглашаюсь с тем, что этот проект и вклад
+    являются общедоступными и что запись о вкладе (включая всю
+    персональную информацию, которую я предоставляю с ним, включая моё подтверждение)
+    поддерживается бессрочно и может быть распространена в соответствии с
+    этим проектом или связанными с ним открытыми лицензиями.
+
